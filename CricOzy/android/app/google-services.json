@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "443256018459",
+    "project_id": "cricozy-68c6d",
+    "storage_bucket": "cricozy-68c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443256018459:android:a8f438db47d50ad1ef4abe",
+        "android_client_info": {
+          "package_name": "com.cric.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443256018459-maejbmoog76703vp60v5r1u0utshjqij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvY-tNS11TjAOfSnUsN-P33Y6lcQB8SwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443256018459-maejbmoog76703vp60v5r1u0utshjqij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443256018459-kas18epdauac7obl9d4gs5febjstg9kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cricozy.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443256018459:android:dc60dfefd5fad830ef4abe",
+        "android_client_info": {
+          "package_name": "com.cricozy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443256018459-maejbmoog76703vp60v5r1u0utshjqij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvY-tNS11TjAOfSnUsN-P33Y6lcQB8SwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443256018459-maejbmoog76703vp60v5r1u0utshjqij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443256018459-kas18epdauac7obl9d4gs5febjstg9kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cricozy.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
                   // getSearchBarUI(),
                   AspectRatio(
                     aspectRatio: 1.0,
-                    child: Image.asset('assets/images/posenet.png'),
+                    child: Image.asset('assets/images/white.gif'),
                   ),
                   Center(
                     child: Column(

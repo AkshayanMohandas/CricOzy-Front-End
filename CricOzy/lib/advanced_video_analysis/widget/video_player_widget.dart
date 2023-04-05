@@ -74,8 +74,8 @@ class _VideoPlayerWidgetState extends State<VideoPlayerWidget> {
     // Create a multipart request with the video file
     final request = http.MultipartRequest(
       'POST',
-      // Uri.parse('http://127.0.0.1:8082/upload-video'), //IOS
-      Uri.parse('http://10.0.2.2:8082/upload-video'), //android
+      Uri.parse('http://127.0.0.1:8082/upload-video'), //IOS
+      // Uri.parse('http://10.0.2.2:8082/upload-video'), //android
     );
     final fileStream = new http.ByteStream(widget.file.openRead());
     final fileLength = await widget.file.length();

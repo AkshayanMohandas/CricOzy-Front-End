@@ -1,4 +1,4 @@
-import 'package:best_flutter_ui_templates/weather/constanst.dart';
+import 'package:CriCozy/weather/constanst.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

@@ -1,5 +1,5 @@
 import 'package:animations/animations.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/home_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/home_page.dart';
 import 'package:flutter/material.dart';
 
 class CenterNextButton extends StatelessWidget {

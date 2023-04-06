@@ -1,8 +1,8 @@
-import 'package:best_flutter_ui_templates/weather/constanst.dart';
-import 'package:best_flutter_ui_templates/weather/current_weather.dart';
-import 'package:best_flutter_ui_templates/weather/more_info.dart';
-import 'package:best_flutter_ui_templates/weather/weather_api_client.dart';
-import 'package:best_flutter_ui_templates/weather/weather_model.dart';
+import 'package:CriCozy/weather/constanst.dart';
+import 'package:CriCozy/weather/current_weather.dart';
+import 'package:CriCozy/weather/more_info.dart';
+import 'package:CriCozy/weather/weather_api_client.dart';
+import 'package:CriCozy/weather/weather_model.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

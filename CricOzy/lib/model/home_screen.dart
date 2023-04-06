@@ -1,4 +1,4 @@
-import 'package:best_flutter_ui_templates/main.dart';
+import 'package:CriCozy/main.dart';
 import 'package:flutter/material.dart';
 import 'homelist.dart';
 

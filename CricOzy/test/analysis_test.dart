@@ -1,7 +1,7 @@
 ////////////////////Analyse Video///////////////////////////
 
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/analyse_video.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/widget/video_player_widget.dart';
+import 'package:CriCozy/advanced_video_analysis/components/analyse_video.dart';
+import 'package:CriCozy/advanced_video_analysis/widget/video_player_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

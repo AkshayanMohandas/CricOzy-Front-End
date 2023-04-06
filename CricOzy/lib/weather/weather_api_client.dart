@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:best_flutter_ui_templates/weather/weather_model.dart';
+import 'package:CriCozy/weather/weather_model.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/src/mock_client.dart';
 

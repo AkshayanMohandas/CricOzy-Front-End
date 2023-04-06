@@ -1,4 +1,4 @@
-import 'package:best_flutter_ui_templates/model/app_theme.dart';
+import 'package:CriCozy/model/app_theme.dart';
 import 'package:flutter/material.dart';
 
 class HomeDrawer extends StatefulWidget {

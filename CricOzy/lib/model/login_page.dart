@@ -189,9 +189,9 @@
 //   }
 // }
 
-import 'package:best_flutter_ui_templates/model/navigation_home_screen.dart';
-import 'package:best_flutter_ui_templates/model/signup_page.dart';
-import 'package:best_flutter_ui_templates/services/auth.dart';
+import 'package:CriCozy/model/navigation_home_screen.dart';
+import 'package:CriCozy/model/signup_page.dart';
+import 'package:CriCozy/services/auth.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {

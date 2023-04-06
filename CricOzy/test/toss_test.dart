@@ -1,6 +1,6 @@
 ////////////////////TOSS SPINNER//////////////////////////
 
-import 'package:best_flutter_ui_templates/toss_spinner/toss_spinner.dart';
+import 'package:CriCozy/toss_spinner/toss_spinner.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

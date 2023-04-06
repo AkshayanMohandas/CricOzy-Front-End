@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:best_flutter_ui_templates/model/app_theme.dart';
-import 'package:best_flutter_ui_templates/model/login_page.dart';
+import 'package:CriCozy/model/app_theme.dart';
+import 'package:CriCozy/model/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;

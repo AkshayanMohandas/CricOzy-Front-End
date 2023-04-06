@@ -1,4 +1,4 @@
-import 'package:best_flutter_ui_templates/speedOmeter/speed.dart';
+import 'package:CriCozy/speedOmeter/speed.dart';
 import 'package:flutter/material.dart';
 
 class SecondPage extends StatelessWidget {

@@ -1,0 +1,30 @@
+name: Dart CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Dart SDK
+      uses: dart-lang/setup-dart@v1
+      with:
+        sdk: stable # use the latest stable version of Dart SDK
+        cache: true # cache Dart SDK binaries for faster builds
+
+    - name: Install dependencies
+      run: dart pub get
+
+    - name: Analyze source code
+      run: dart analyze
+
+    - name: Run tests
+      run: dart test

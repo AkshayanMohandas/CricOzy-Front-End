@@ -1,10 +1,10 @@
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/process_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/center_next_button.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/analysis_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/input_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/lets_begin_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/top_back_skip_view.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/welcome_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/process_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/center_next_button.dart';
+import 'package:CriCozy/advanced_video_analysis/components/analysis_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/input_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/lets_begin_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/top_back_skip_view.dart';
+import 'package:CriCozy/advanced_video_analysis/components/welcome_page.dart';
 import 'package:flutter/material.dart';
 
 class IntroductionAnimationScreen extends StatefulWidget {

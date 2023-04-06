@@ -1,10 +1,10 @@
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/help.dart';
-import 'package:best_flutter_ui_templates/model/aboutus_page.dart';
-import 'package:best_flutter_ui_templates/model/feedback_screen.dart';
-import 'package:best_flutter_ui_templates/model/home_screen.dart';
-import 'package:best_flutter_ui_templates/model/invite_friend_screen.dart';
-import 'package:best_flutter_ui_templates/model/navigation_home_screen.dart';
-import 'package:best_flutter_ui_templates/model/rating_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/help.dart';
+import 'package:CriCozy/model/aboutus_page.dart';
+import 'package:CriCozy/model/feedback_screen.dart';
+import 'package:CriCozy/model/home_screen.dart';
+import 'package:CriCozy/model/invite_friend_screen.dart';
+import 'package:CriCozy/model/navigation_home_screen.dart';
+import 'package:CriCozy/model/rating_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

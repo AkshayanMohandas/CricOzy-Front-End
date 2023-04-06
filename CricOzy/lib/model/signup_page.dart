@@ -135,8 +135,8 @@
 //   }
 // }
 
-import 'package:best_flutter_ui_templates/model/login_page.dart';
-import 'package:best_flutter_ui_templates/services/auth.dart';
+import 'package:CriCozy/model/login_page.dart';
+import 'package:CriCozy/services/auth.dart';
 import 'package:flutter/material.dart';
 
 class SignupPage extends StatefulWidget {

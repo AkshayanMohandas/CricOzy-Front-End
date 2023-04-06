@@ -118,10 +118,10 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/help.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/video.dart';
-import 'package:best_flutter_ui_templates/model/navigation_home_screen.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/widget/video_player_widget.dart';
+import 'package:CriCozy/advanced_video_analysis/components/help.dart';
+import 'package:CriCozy/advanced_video_analysis/components/video.dart';
+import 'package:CriCozy/model/navigation_home_screen.dart';
+import 'package:CriCozy/advanced_video_analysis/widget/video_player_widget.dart';
 
 class MyPage extends StatelessWidget {
   @override

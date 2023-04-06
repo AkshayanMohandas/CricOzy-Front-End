@@ -1,6 +1,6 @@
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/analysis_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/input_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/process_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/analysis_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/input_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/process_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

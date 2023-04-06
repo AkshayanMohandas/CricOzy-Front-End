@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:best_flutter_ui_templates/Fitness/screens/workout_screen.dart';
-import 'package:best_flutter_ui_templates/Fitness/widgets/round_info_container.dart';
+import 'package:CriCozy/Fitness/screens/workout_screen.dart';
+import 'package:CriCozy/Fitness/widgets/round_info_container.dart';
 import 'package:flutter/material.dart';
 
 class FitnessAppHomeScreen extends StatelessWidget {

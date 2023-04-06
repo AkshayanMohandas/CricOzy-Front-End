@@ -2,8 +2,8 @@
 
 import 'dart:convert';
 import 'dart:io';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/analyse_video.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/home_page.dart';
+import 'package:CriCozy/advanced_video_analysis/components/analyse_video.dart';
+import 'package:CriCozy/advanced_video_analysis/components/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'package:http/http.dart' as http;

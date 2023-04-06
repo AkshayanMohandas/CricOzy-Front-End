@@ -1,13 +1,13 @@
 // ignore_for_file: deprecated_member_use
 
 import 'dart:io';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/home_page.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/widget/video_player_widget.dart';
+import 'package:CriCozy/advanced_video_analysis/components/home_page.dart';
+import 'package:CriCozy/advanced_video_analysis/widget/video_player_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:convert';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/components/analyse_video.dart';
+import 'package:CriCozy/advanced_video_analysis/components/analyse_video.dart';
 import 'dart:async';
 import 'package:http/http.dart' as http;
 import 'package:path/path.dart' as path;

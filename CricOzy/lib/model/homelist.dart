@@ -1,6 +1,6 @@
-import 'package:best_flutter_ui_templates/Fitness/screens/home_screen.dart';
-import 'package:best_flutter_ui_templates/advanced_video_analysis/introduction_animation_screen.dart';
-import 'package:best_flutter_ui_templates/speedOmeter/first_page.dart';
+import 'package:CriCozy/Fitness/screens/home_screen.dart';
+import 'package:CriCozy/advanced_video_analysis/introduction_animation_screen.dart';
+import 'package:CriCozy/speedOmeter/first_page.dart';
 import 'package:flutter/widgets.dart';
 import '../toss_spinner/toss_spinner.dart';
 import '../weather/weather_page.dart';

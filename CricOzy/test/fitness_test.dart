@@ -1,4 +1,4 @@
-import 'package:best_flutter_ui_templates/Fitness/workout_data.dart';
+import 'package:CriCozy/Fitness/workout_data.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

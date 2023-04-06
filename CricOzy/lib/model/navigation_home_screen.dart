@@ -1,11 +1,11 @@
-import 'package:best_flutter_ui_templates/model/aboutus_page.dart';
-import 'package:best_flutter_ui_templates/model/drawer_user_controller.dart';
-import 'package:best_flutter_ui_templates/model/home_drawer.dart';
-import 'package:best_flutter_ui_templates/model/feedback_screen.dart';
-import 'package:best_flutter_ui_templates/model/help_screen.dart';
-import 'package:best_flutter_ui_templates/model/home_screen.dart';
-import 'package:best_flutter_ui_templates/model/invite_friend_screen.dart';
-import 'package:best_flutter_ui_templates/model/rating_page.dart';
+import 'package:CriCozy/model/aboutus_page.dart';
+import 'package:CriCozy/model/drawer_user_controller.dart';
+import 'package:CriCozy/model/home_drawer.dart';
+import 'package:CriCozy/model/feedback_screen.dart';
+import 'package:CriCozy/model/help_screen.dart';
+import 'package:CriCozy/model/home_screen.dart';
+import 'package:CriCozy/model/invite_friend_screen.dart';
+import 'package:CriCozy/model/rating_page.dart';
 import 'package:flutter/material.dart';
 
 class NavigationHomeScreen extends StatefulWidget {
